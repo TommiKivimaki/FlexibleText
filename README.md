@@ -1,3 +1,3 @@
 # FlexibleText
 
-A description of this package.
+A text view that can be expanded and minimized.
