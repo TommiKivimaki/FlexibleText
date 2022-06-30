@@ -1,11 +1,11 @@
-# FlexibleText
+* FlexibleText
 
 A text view that can be expanded and minimized.
 
-## Usage
+** Usage
 
-´´´swift
+#+BEGIN_SRC swift
         FlexibleText("Long multiline text here...") {
             FlexibleTextDefaultMask(color: .primary)
             }
-´´´
+#END_SRC
