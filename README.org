@@ -7,5 +7,5 @@ A text view that can be expanded and minimized.
 #+BEGIN_SRC swift
         FlexibleText("Long multiline text here...") {
             FlexibleTextDefaultMask(color: .primary)
-            }
+        }
 #+END_SRC
