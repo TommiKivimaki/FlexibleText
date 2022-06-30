@@ -8,4 +8,4 @@ A text view that can be expanded and minimized.
         FlexibleText("Long multiline text here...") {
             FlexibleTextDefaultMask(color: .primary)
             }
-#END_SRC
+#+END_SRC
